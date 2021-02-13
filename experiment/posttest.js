@@ -90,11 +90,11 @@
 
   const myQuestions = [
     {
-      question: "What will be the output of the following?  
-fruits =['apples', 'guava', 'bananas']
-oranges = (4, 3)
-fruits.append(oranges)
-print(fruits)", 
+      question: "What will be the output of the following? \
+      fruits =['apples', 'guava', 'bananas'] \
+      oranges = (4, 3)\
+      fruits.append(oranges)\
+      print(fruits)", 
  ///// Write the question inside double quotes
       answers: {
       a: "['apples', 'guava', 'bananas', (4, 3)",                  ///// Write the option 1 inside double quotes
@@ -106,11 +106,11 @@ print(fruits)",
     },
 
 {
-  question: "If mylist is [0, 3, 2, 5]  then,          [C]
+  question: "If mylist is [0, 3, 2, 5]  then,          [C]\
      what is mylist * 2?",
        ///// Write the question inside double quotes
       answers: {
-  a: "[0, 6, 4, 10]. 
+  a: "[0, 6, 4, 10]. \
   ",
   ///// Write the option 1 inside double quotes
   b: "[0, 3, 2, 5, 0, 3] ",                  ///// Write the option 2 inside double quotes
@@ -122,9 +122,9 @@ correctAnswer: "c"                ///// Write the correct option inside double q
 ///// this line
 
 {
-  question: "What will be the output of the following ?   [B]
-  list1 = [0, 2, 7, 4, 5]
-  print(list1[3: 0: -1])
+  question: "What will be the output of the following ?   [B]\
+  list1 = [0, 2, 7, 4, 5]\
+  print(list1[3: 0: -1])\
   ",
   answers: {
     a: " Syntax error",
@@ -136,11 +136,10 @@ correctAnswer: "c"                ///// Write the correct option inside double q
 },
 
 {
-  question: "What will be the output?
-
-  d1 = { "james": 40, "peter": 45 }
-  d2 = { "james": 466, "peter": 45 }
-  d1 > d2
+  question: "What will be the output? \
+  d1 ={ 'james': 40, 'peter': 45 }\
+  d2 = { 'james': 466, 'peter': 45 } \
+  d1 > d2 \
   ",
   answers: {
     a: "True",

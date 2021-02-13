@@ -50,8 +50,6 @@ Example : dict1 = {1 : "Red", 2 : "Blue", 3 : "Green"}<br>
                     
 ### Pre Test
 
-    ### Pre Test
-
 1. Q1. Suppose list1 is [31, 53, 25, 12, 36][b]
    what is min(list1) ?
    <br>
@@ -120,8 +118,6 @@ Example : dict1 = {1 : "Red", 2 : "Blue", 3 : "Green"}<br>
 
 ### Post Test
 
-### Post Test
-
 1. What will be the output of the following? [A]
    fruits = ['apples', 'guava', 'bananas']
    oranges = (4, 3)
@@ -151,21 +147,20 @@ Example : dict1 = {1 : "Red", 2 : "Blue", 3 : "Green"}<br>
    <br><br>
    <p id = "p2"></p>
    <br>
-
-3.What will be the output of the following ? [B]
-list1= [0,2,7,4,5]
-print(list1[3:0:-1])
-<br>
-A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp;Syntax error
-<br>
-B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; [4, 7, 2]
-<br>
-C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; [4, 7]
-<br>
-D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp;[4, 7, 2, 0]
-<br><br>
-<p id = "p4"></p>
-<br>
+3. What will be the output of the following ? [B]
+   list1= [0,2,7,4,5]
+   print(list1[3:0:-1])
+   <br>
+   A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp;Syntax error
+   <br>
+   B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; [4, 7, 2]
+   <br>
+   C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; [4, 7]
+   <br>
+   D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp;[4, 7, 2, 0]
+   <br><br>
+   <p id = "p4"></p>
+   <br>
 
 4.  What will be the output?
     d1 = {"james":40, "peter":45}

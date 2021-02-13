@@ -128,8 +128,7 @@
     {
       question: "Which of the following commands will create a list?",
       answers: {
-        a: " mylist = list()
-        ,
+        a: " mylist = list()",
         b: " mylist = []",
         c: "mylist = list([1, 2, 3])",
         d: "all of the mentioned"
@@ -137,10 +136,10 @@
       correctAnswer: "b"
     },
     {
-      question: " What will be the output of following? 
-tuple = (1, 2, 3, 4)
-tuple.append((5, 6, 7))
-print(len(tuple))
+      question: " What will be the output of following? \
+tuple = (1, 2, 3, 4)\
+tuple.append((5, 6, 7))\
+print(len(tuple))\
     ",
         answers: {
       a: "1",
@@ -151,7 +150,7 @@ print(len(tuple))
     correctAnswer: "d"
       },
   
-    ;
+     ] ;
 
 
 
