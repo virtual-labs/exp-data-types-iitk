@@ -90,7 +90,6 @@ Complete the following table giving the details of the Simulator interactions.<b
 What Simulator will do? What students will do? Purpose of the task
 
 
-
 Sr No. |	What students will do?	|  What simulator will do? | Purpose of the task
 :--|:--|:--|:-:
 1.| 1.  Examine the simulator screen and take note of all the instructions. <br>2.  Select the type of data types you want to use. <br> 3.  Enter input values if required. <br>4. Press “Start” button <br>5. Press “Next” button. <br>6. Pres “Reset" button.<br> 7. Press “Quiz” tab. | 1.  Display all the simulator contents.<br>2.  Bring the selected data type for use.<br>3. Input elds will take input if necessary.<br>4.  Display the code in Python programming language.<br> 5.  Highlight each executing line and its output.<br> 6. Reset the simulator for a fresh start.<br>7.  Display the quiz questions. | 1.  Display simulator interface.<br> 2.  To select a data type for performing the experiment.<br>3.  To take in input values to perform any operation.<br>4. To present a code to the user for better understanding. <br>5.  To explain the meaning of each line of code.<br>6. To perform a fresh experiment.<br>7.  To perform an evaluation of the knowledge gained by the user.
