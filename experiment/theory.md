@@ -15,16 +15,34 @@ ii.Tuple Immutable<br>
 iii.Dictionary Mutable<br>
                     <h4>LIST</h4>It is a collection of data in which date is stored in ordered form.<br>
                     Syntax : object_name = [ elements ]<br>
-                    The above mentioned syntax is of list where the elements are mentioned in square brackets.<br>
-                    Example : list1 = [1, 2, 3, 4, 5]<br>
-                    Syntax to print a list is :<br>
-                     Syntax : print(list1)<br>
+                    The above mentioned syntax is of list where the elements are mentioned in square brackets.<br><br>
+                    Program:<br><br>
+                    <img src="images/img2.PNG"><br><br>
+                    Output<br><br>
+                    ['apple', 'banana', 'cherry']<br><br>
                     <h4>Tuple</h4>A tuple is a collection of data which is mostly similar to a list except that it is immutable i.e. the value once stored in a tuple cannot be changed. Though tuple allows concatenation.
                     Syntax : object_name = ( elements ) <br>
-                    This is the syntax of a tuple, where elements are placed under parenthesis.<br>
-                    Example : tup1 = ( 1, 'Made by Harsh', 3.34)<br>
-                    The printing syntax of tuple is same as that of list.<br>
+                    This is the syntax of a tuple, where elements are placed under parenthesis.<br><br>
+                    Program:<br><br>
+                    <img src="images/img3.PNG"><br><br>
+                    Output:<br><br>
+                    ('apple', 'banana', 'cherry')<br><br>
+                    Tuples allow duplicate values:<br><br>
+                    Program:<br><br>
+                    <img src="images/img4.PNG"><br><br>
+                    Output:<br><br>
+                    ('apple', 'banana', 'cherry','apple')<br><br>
  <h4>Dictionary</h4>Dictionary is a collection of data which is not sequential like a list, thus indexing is not possible.
-It consists of a key and its value.
-The above syntax is for a dictionary where the elements are placed under curly brackets.<br>
+It consists of a key and its value.<br>
 Example : dict1 = {1 : "Red", 2 : "Blue", 3 : "Green"}<br>
+The above syntax is for a dictionary where the elements are placed under curly brackets.<br><br>
+Program:<br><br>
+<img src="images/img5.PNG"><br><br>
+Output:<br><br>
+{'brand': 'Ford', 'model': 'Mustang', 'year': 1964}<br><br>
+Duplicates are not allowed in dictionary.<br><br>
+Program<br><br>
+<img src="images/img6.PNG"><br><br>
+Output<br><br>
+{'brand': 'Ford', 'model': 'Mustang', 'year': 2020}<br><br>
+Duplicate values will overwrite existing values
