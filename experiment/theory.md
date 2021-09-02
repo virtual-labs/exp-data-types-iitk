@@ -15,21 +15,22 @@ ii.Tuple Immutable<br>
 iii.Dictionary Mutable<br>
                     <h4>LIST</h4>It is a collection of data in which date is stored in ordered form.<br>
                     Syntax : object_name = [ elements ]<br>
-                    The above mentioned syntax is of list where the elements are mentioned in square brackets.<br>
-                    Program:<br><br>
+                    The above mentioned syntax is of list where the elements are mentioned in square brackets.<br><br>
+                    Program:<br>
                     <img src="images/img2.PNG"><br>
-                    Output<br><br>
+                    Output<br>
                     ['apple', 'banana', 'cherry']<br><br>
                     <h4>Tuple</h4>A tuple is a collection of data which is mostly similar to a list except that it is immutable i.e. the value once stored in a tuple cannot be changed. Though tuple allows concatenation.
                     Syntax : object_name = ( elements ) <br>
-                    This is the syntax of a tuple, where elements are placed under parenthesis.<br>
-                    Program:<br><br>
+                    This is the syntax of a tuple, where elements are placed under parenthesis.<br><br>
+                    Program:<br>
                     <img src="images/img3.PNG"><br><br>
-                    Output:<br><br>
-                    ('apple', 'banana', 'cherry')<br>
-                    Program:<br><br>
+                    Output:<br>
+                    ('apple', 'banana', 'cherry')<br><br>
+                    Tuples allow duplicate values:<br>
+                    Program:<br>
                     <img src="images/img4.PNG"><br><br>
-                    Output:<br><br>
+                    Output:<br>
                     ('apple', 'banana', 'cherry','apple')<br>
  <h4>Dictionary</h4>Dictionary is a collection of data which is not sequential like a list, thus indexing is not possible.
 It consists of a key and its value.<br>
