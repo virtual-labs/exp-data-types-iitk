@@ -42,7 +42,7 @@ Output:<br><br>
 {'brand': 'Ford', 'model': 'Mustang', 'year': 1964}<br><br>
 Duplicates are not allowed in dictionary.<br><br>
 Program<br><br>
-<img src="images/img5.PNG"><br><br>
+<img src="images/img6.PNG"><br><br>
 Output<br><br>
 {'brand': 'Ford', 'model': 'Mustang', 'year': 2020}<br>
 Duplicate values will overwrite existing values
