@@ -16,26 +16,26 @@ iii.Dictionary Mutable<br>
                     <h4>LIST</h4>It is a collection of data in which date is stored in ordered form.<br>
                     Syntax : object_name = [ elements ]<br>
                     The above mentioned syntax is of list where the elements are mentioned in square brackets.<br><br>
-                    Program:<br>
-                    <img src="images/img2.PNG"><br>
-                    Output<br>
+                    Program:<br><br>
+                    <img src="images/img2.PNG"><br><br>
+                    Output<br><br>
                     ['apple', 'banana', 'cherry']<br><br>
                     <h4>Tuple</h4>A tuple is a collection of data which is mostly similar to a list except that it is immutable i.e. the value once stored in a tuple cannot be changed. Though tuple allows concatenation.
                     Syntax : object_name = ( elements ) <br>
                     This is the syntax of a tuple, where elements are placed under parenthesis.<br><br>
-                    Program:<br>
+                    Program:<br><br>
                     <img src="images/img3.PNG"><br><br>
-                    Output:<br>
+                    Output:<br><br>
                     ('apple', 'banana', 'cherry')<br><br>
-                    Tuples allow duplicate values:<br>
-                    Program:<br>
+                    Tuples allow duplicate values:<br><br>
+                    Program:<br><br>
                     <img src="images/img4.PNG"><br><br>
-                    Output:<br>
-                    ('apple', 'banana', 'cherry','apple')<br>
+                    Output:<br><br>
+                    ('apple', 'banana', 'cherry','apple')<br><br>
  <h4>Dictionary</h4>Dictionary is a collection of data which is not sequential like a list, thus indexing is not possible.
 It consists of a key and its value.<br>
 Example : dict1 = {1 : "Red", 2 : "Blue", 3 : "Green"}<br>
-The above syntax is for a dictionary where the elements are placed under curly brackets.<br>
+The above syntax is for a dictionary where the elements are placed under curly brackets.<br><br>
 Program:<br><br>
 <img src="images/img5.PNG"><br><br>
 Output:<br><br>
