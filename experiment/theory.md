@@ -44,5 +44,5 @@ Duplicates are not allowed in dictionary.<br><br>
 Program<br><br>
 <img src="images/img6.PNG"><br><br>
 Output<br><br>
-{'brand': 'Ford', 'model': 'Mustang', 'year': 2020}<br>
+{'brand': 'Ford', 'model': 'Mustang', 'year': 2020}<br><br>
 Duplicate values will overwrite existing values
