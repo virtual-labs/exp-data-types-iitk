@@ -1,16 +1,38 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "Suppose list1 is [31, 53, 25, 12, 36]what is min(list1)?",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "36",                  
+        "b": "53",                  
+        "c": "ERROR",                  
+        "d": "12" 
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Suppose list1 is [4, 5, 8], what is sum(list1) ? ",
+	"answers": {
+		"a": "17 ",                 
+        "b": "13",                  
+        "c": "15",                  
+        "d": "Error"
+	},
+	"correctAnswer": "b"
+},
+{
+	"question": "Which of the following data types are immutable?",
+	"answers": {
+		"a": "Tuples",
+        "b": "Sets",
+        "c": "Dictionary",
+        "d": "Lists"
 	},
 	"correctAnswer": "a"
-}, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+},{
+	"question": "Which of the following commands will create a list?",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": " mylist = list()",
+        "b": " mylist = []",
+        "c": "mylist = list([1, 2, 3])",
+        "d": "all of the mentioned"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "b"
 }]
