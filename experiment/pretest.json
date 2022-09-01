@@ -6,7 +6,7 @@
         "c": "ERROR",                  
         "d": "12" 
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "d"
 }, {
 	"question": "Suppose list1 is [4, 5, 8], what is sum(list1) ? ",
 	"answers": {
@@ -15,7 +15,7 @@
         "c": "15",                  
         "d": "Error"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "a"
 },
 {
 	"question": "Which of the following data types are immutable?",
