@@ -84,6 +84,10 @@ LO ID |    Learning Objective  | Task to be performed by <br> the student  in th
 
 <a name="AQ"></a>
 #### 4. Simulator Interactions :
+<br>
+Complete the following table giving the details of the Simulator interactions.<br>
+What Simulator will do? What students will do? Purpose of the task
+
 
 <br>
 Complete the following table giving the details of the Simulator interactions.<br>
@@ -100,4 +104,6 @@ Sr No. |	What students will do?	|  What simulator will do? | Purpose of the task
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
+
 <br/>
+
