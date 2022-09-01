@@ -1,7 +1,7 @@
 [{
 	"question": "What will be the output of the following<br><img src='images/img1.PNG'",
 	"answers": {
-	   "a": "['apples', 'guava', 'bananas', (4, 3)",                 
+	   "a": "['apples', 'guava', 'bananas', (4, 3)]",                 
        "b": "Ledger can be viewed by anyone. ['apples', 'guava', 'bananas', 4, 3]",                  
        "c": "['apples', 'guava', 'bananas', [4, 3]",                  
        "d": " ['apples', 'guava', 'bananas'], (4, 3)"
@@ -33,6 +33,5 @@
       "c": "Error",
       "d": "None"
 	},
-	"correctAnswer": "b"
-
+	"correctAnswer": "c"
 }]
