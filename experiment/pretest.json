@@ -29,10 +29,10 @@
 },{
 	"question": "Which of the following commands will create a list?",
 	"answers": {
-		"a": " mylist = list()",
-        "b": " mylist = []",
+		"a": "mylist = list()",
+        "b": "mylist = []",
         "c": "mylist = list([1, 2, 3])",
         "d": "all of the mentioned"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "d"
 }]
