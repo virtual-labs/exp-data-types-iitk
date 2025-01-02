@@ -1,0 +1,38 @@
+[{
+	"question": "Suppose list1 is [31, 53, 25, 12, 36]what is min(list1)?",
+	"answers": {
+		"a": "36",                  
+        "b": "53",                  
+        "c": "ERROR",                  
+        "d": "12" 
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Suppose list1 is [4, 5, 8], what is sum(list1) ? ",
+	"answers": {
+		"a": "17 ",                 
+        "b": "13",                  
+        "c": "15",                  
+        "d": "Error"
+	},
+	"correctAnswer": "a"
+},
+{
+	"question": "Which of the following data types are immutable?",
+	"answers": {
+		"a": "Tuples",
+        "b": "Sets",
+        "c": "Dictionary",
+        "d": "Lists"
+	},
+	"correctAnswer": "a"
+},{
+	"question": "Which of the following commands will create a list?",
+	"answers": {
+		"a": "mylist = list()",
+        "b": "mylist = []",
+        "c": "mylist = list([1, 2, 3])",
+        "d": "all of the mentioned"
+	},
+	"correctAnswer": "d"
+}]
